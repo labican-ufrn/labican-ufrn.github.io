@@ -1,4 +1,4 @@
-# Welcome to labican page
+Welcome to labican page
 
 O Laboratório de Inteligência Computacional Aplicada à Negócios (labican) desenvolve atividades de pesquisa e extensão na área de computação e informática, além de contribuir para o desenvolvimento do conhecimento científico.
 
